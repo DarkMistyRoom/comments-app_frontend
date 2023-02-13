@@ -8,7 +8,7 @@ Implemented security from XSS attacks and SQL injections
 
 Tech stack: PostgreSQL, Sequelize, ExpressJS, React, Typescript
 
-To run the project click the demo link
+To run the project click the 
 [Demo link](https://darkmistyroom.github.io/comments-app_frontend/)
 
 [Server code](https://github.com/DarkMistyRoom/comments_back)
