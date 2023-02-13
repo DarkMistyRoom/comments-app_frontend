@@ -7,8 +7,7 @@ Also, users have a possibility to upload the file, but this feature is still in 
 Implemented security from XSS attacks and SQL injections
 
 Tech stack: PostgreSQL, Sequelize, ExpressJS, React, Typescript
-
-To run the project click the 
+ 
 [Demo link](https://darkmistyroom.github.io/comments-app_frontend/)
 
 [Server code](https://github.com/DarkMistyRoom/comments_back)
