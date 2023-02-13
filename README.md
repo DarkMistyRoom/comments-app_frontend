@@ -23,3 +23,5 @@ To run the frontend locally:
 - clone this repo `git clone`
 - run `npm i`
 - run `npm start`
+
+The client will send requests to deployed server(Render hosting). If you want to send requests to localhost, specify the url in src/constants.ts as BASE_URL
